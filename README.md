@@ -7,6 +7,9 @@ npm install
 
 bower install
 
-if bower.json,gulpfile.js,karma.conf.js files didn't find in your project folder then run the below command
+Need to install bower, gulp-cli and karma 
 
+before check whether it is installed or not
+bower -v, gulp-cli -v, karma -v 
+if not run below command
 npm install -g bower gulp-cli karma
